@@ -49,7 +49,7 @@ const columns: GridColDef[] = [
   {
     field: "verified",
     headerName: "Verified",
-    width: 70,
+    width: 100,
     type: "boolean",
   },
 ];
