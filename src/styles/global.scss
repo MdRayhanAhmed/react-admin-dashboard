@@ -17,21 +17,21 @@ a {
 }
 .container {
   display: flex;
-  @include xxl {
-    background-color: rgb(107, 32, 32);
-  }
-  @include xl {
-    background-color: rgb(56, 39, 131);
-  }
-  @include lg {
-    background-color: rgb(100, 187, 148);
-  }
-  @include md {
-    background-color: rgb(118, 36, 69);
-  }
-  @include sm {
-    background-color: rgb(152, 185, 195);
-  }
+  // @include xxl {
+  //   background-color: rgb(107, 32, 32);
+  // }
+  // @include xl {
+  //   background-color: rgb(56, 39, 131);
+  // }
+  // @include lg {
+  //   background-color: rgb(100, 187, 148);
+  // }
+  // @include md {
+  //   background-color: rgb(118, 36, 69);
+  // }
+  // @include sm {
+  //   background-color: rgb(152, 185, 195);
+  // }
 }
 .menuContainer {
   width: 250px;
